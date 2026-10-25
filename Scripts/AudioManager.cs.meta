@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 60d37497063c540449fd9ef3ec060707
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuMusic: {fileID: 8300000, guid: faa27a43b0672c141adc31b9bdb36c8e, type: 3}
+  - gameMusic: {fileID: 8300000, guid: 900e43ec6dc28ec4db0233074d0dac2c, type: 3}
+  - jumpSound: {fileID: 8300000, guid: 3686e4aecbf35614eb7117605dcfdbc3, type: 3}
+  - coinSound: {fileID: 8300000, guid: 6b2af932811bb42448c4b3ea10d19935, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 68ccad00e7c5ca443b5159c9f394f98e, type: 3}
+  - powerUpSound: {fileID: 8300000, guid: e88e37cc1a3d34644a81c826d4ec7ba4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
